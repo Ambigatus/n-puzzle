@@ -1,0 +1,7 @@
+# PUZZLE 1: Easy 3x3 (puzzle_easy.txt)
+# ============================================================================
+# This is a simple puzzle - just a few moves from goal
+3
+1 2 3
+8 0 4
+7 6 5
